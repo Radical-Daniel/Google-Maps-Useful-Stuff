@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="PLATFORM" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="C:/Gradle/gradle-6.6.1" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="C:/flutter/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-1.0.11/android" />
+            <option value="C:/flutter/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.3.1/android" />
+            <option value="C:/flutter/flutter/.pub-cache/hosted/pub.dartlang.org/google_api_availability-2.0.4/android" />
+            <option value="C:/flutter/flutter/.pub-cache/hosted/pub.dartlang.org/google_maps_flutter-0.5.33/android" />
+            <option value="C:/flutter/flutter/.pub-cache/hosted/pub.dartlang.org/location_permissions-2.0.5/android" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
